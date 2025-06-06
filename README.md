@@ -23,7 +23,7 @@ Clone the Repository:git clone https://github.com/yourusername/budget-tracker.gi
 cd budget-tracker
 
 
-Ensure Python 3.6+ is installed:python --version
+Ensure Python 3.8+ is installed:python --version
 
 
 Run the application:python budget_tracker.py
